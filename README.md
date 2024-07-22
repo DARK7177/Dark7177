@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm ᴅᴀʀᴋ/h1>
+<h1 align="center">Hello 👋, I'm ᴅᴀʀᴋ </h1>
 <h3 align="center">A Mern Stack developer from India</h3>
 
 <img align="right" alt="img" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
