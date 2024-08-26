@@ -3,9 +3,9 @@
 
 <img align="right" alt="img" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
 
-- 🌱 I’m currently learning **React , React Native**
+- 🌱 I’m currently learning **React.js , NeXt.js**
 
-- ⚡ Fun fact **Hate fixing bugs 🤦‍♂️**
+- ⚡ Fun fact **Its quite fun while fixing bugs 🤦‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
